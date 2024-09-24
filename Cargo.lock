@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Personal template"
+name = "personal_template"
 version = "0.1.0"
